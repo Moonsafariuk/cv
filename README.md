@@ -1,2 +1,3 @@
-# cv
-First draft of my CV made with Illustrator. Using blank names as placeholders for the GitHub version
+# CV
+
+An updated version of my CV in a PDF file. Original .ai files are available if required. 
